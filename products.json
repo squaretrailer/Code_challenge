@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": 19.99,
+        "description": "A comfortable cotton t-shirt.",
+        "image": "images/t-shirt.webp"
+    },
+    {
+        "id": 2,
+        "name": "Shirt",
+        "price": 49.99,
+        "description": "A stylish shirt for any occasion.",
+        "image": "images/shirt.avif"
+    },
+    {
+        "id": 3,
+        "name": "Milk",
+        "price": 89.99,
+        "description": "Fresh and delicious milk.",
+        "image": "images/milk.avif"
+    },
+    {
+        "id": 4,
+        "name": "Hoodie",
+        "price": 129.99,
+        "description": "A warm and fashionable hoodie.",
+        "image": "images/hoodie-jumper.webp"
+    },
+    {
+        "id": 5,
+        "name": "Blender",
+        "price": 14.99,
+        "description": "A powerful blender for all your smoothie needs.",
+        "image": "images/blender.jpg"
+    }
+]
