@@ -9,7 +9,9 @@
 
 body {
   font-family: "Raleway", sans-serif;
-  background-color: gray;
+  background-image: url(images/colorful-background-with-pink-blue-color_125964-1618.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
   transition: transform 0.3s ease;
 }
 
