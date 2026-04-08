@@ -27,7 +27,7 @@ body {
 svg {
   width: 30px;
 }
-
+/* Styling the header */
 header {
   display: flex;
   align-items: center;
@@ -95,13 +95,13 @@ header .icon-cart span {
 .list-product .item h2 {
   font-weight: 500;
   font-size: large;
-  margin-top: 10px;
+  margin-top: 50px;
 }
 
 .list-product .item .price {
   letter-spacing: 2px;
   font-size: small;
-  margin-top: 5px;
+  margin-top: 15px;
 }
 
 .list-product .item button {
@@ -109,7 +109,7 @@ header .icon-cart span {
   color: #fff;
   padding: 5px 10px;
   border-radius: 20px;
-  margin-top: 10px;
+  margin-top: 20px;
   border: none;
   cursor: pointer;
   font-family: inherit;
