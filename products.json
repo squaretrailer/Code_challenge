@@ -47,5 +47,12 @@
         "price": 200.99,
         "description": "A powerful cleaning item.",
         "image": "images/washing mashine.avif"
+    },
+     {
+        "id": 8,
+        "name": "gaming gloves",
+        "price": 60.99,
+        "description": "A pair of gloves used for gaming.",
+        "image": "images/gaming-gloves.webp"
     }
 ]
