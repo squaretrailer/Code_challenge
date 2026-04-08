@@ -33,5 +33,19 @@
         "price": 14.99,
         "description": "A powerful blender for all your smoothie needs.",
         "image": "images/blender.jpg"
+    },
+    {
+        "id": 6,
+        "name": "tablet",
+        "price": 114.99,
+        "description": "A powerful tablet.",
+        "image": "images/tablet.jpg"
+    },
+     {
+        "id": 7,
+        "name": "washing machine",
+        "price": 200.99,
+        "description": "A powerful cleaning item.",
+        "image": "images/washing mashine.avif"
     }
 ]
